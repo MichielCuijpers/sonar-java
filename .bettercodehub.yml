@@ -1,0 +1,7 @@
+component_depth: 1
+languages:
+- java
+- script
+- javascript
+exclude:
+- /source/java-checks/src/test/files/.*
