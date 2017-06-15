@@ -6,3 +6,4 @@ languages:
 exclude:
 - /source/java-checks/src/test/files/.*
 - /source/java-frontend/src/test/files.*
+- /source/java-checks/src/test/files/.*
