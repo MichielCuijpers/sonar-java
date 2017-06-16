@@ -4,5 +4,6 @@ languages:
 - script
 - javascript
 exclude:
-- /source/java-checks/src/test/files/.*
-- /source/java-frontend/src/test/files.*
+- /java-checks/src/test/files/.*
+- /java-frontend/src/test/files.*
+- /java-frontend/src/test/filesInError/.*
